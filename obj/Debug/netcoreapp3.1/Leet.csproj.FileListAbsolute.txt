@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Leet\bin\Debug\netcoreapp3.1\Leet.exe
+C:\Users\POSITIVO\Desktop\PC1\Leet\bin\Debug\netcoreapp3.1\Leet.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Leet\bin\Debug\netcoreapp3.1\Leet.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Leet\bin\Debug\netcoreapp3.1\Leet.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Leet\bin\Debug\netcoreapp3.1\Leet.dll
+C:\Users\POSITIVO\Desktop\PC1\Leet\bin\Debug\netcoreapp3.1\Leet.pdb
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.dll
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.pdb
+C:\Users\POSITIVO\Desktop\PC1\Leet\obj\Debug\netcoreapp3.1\Leet.genruntimeconfig.cache
